@@ -1,0 +1,13 @@
+https://www.youtube.com/watch?v=SonwZ6MF5BE
+
+RUN FILE
+-go run main.go
+
+BUILD
+-go build
+
+EXECUTE
+-./restapi
+
+INSTALL MUX
+-go get -u github.com/gorilla/mux
